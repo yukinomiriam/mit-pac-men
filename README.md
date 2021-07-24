@@ -1,4 +1,4 @@
-# PacMen
+ # PacMen
 
 CONTENTS OF THIS FILE
 ---------------------
@@ -22,7 +22,10 @@ The code for the current assignments only requires access to a web browser.
 HOW TO RUN
 ------------
 In order to run this project, please download all the files and place them all in the same folder, then open the index.html file. 
-	
+
+ROADMAP OF FUTURE IMPROVEMENTS
+-----------
+In the future, I am planning on adding a better look and feel so the page doesn't look so flat and might improve the area where the PacMen bounce
 
 MAINTAINERS
 ------------
