@@ -1,12 +1,4 @@
 # pacmen
-Factory for making pacmen
-You are given a starter.html code.
-When button "make one" is pressed you need to complete the code 
-to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
-You also need to make each pacman bounce off any wall it hits. 
-Start by getting at least one pacman positioned and viewable. 
-
-<img src="PacMan1.png">
 
 CONTENTS OF THIS FILE
 ---------------------
@@ -19,7 +11,7 @@ CONTENTS OF THIS FILE
  INTRODUCTION
 ------------
 
-This is a factory for making pacmen. When the button "Add PacMan" is pressed, it will add a new image of a pac man to the screen.
+This is a factory for making PacMen. When the button "Add PacMan" is pressed, it will add a new image of a pac man to the screen.
 
 When the button "Star Game" is pressed, the images of the Pac Men will start moving and bouncing accross the screen.
 
@@ -36,3 +28,5 @@ MAINTAINERS
 ------------
 This project is maintained by Miriam Bade.
 For any questions, you can reach out to me by email: yukinomiriam@gmail.com.
+
+![alt text](https://github.com/yukinomiriam/mit-pac-men/blob/main/images/PacMenGame.png)
