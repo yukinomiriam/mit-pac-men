@@ -1,4 +1,4 @@
-# pacmen
+# PacMen
 
 CONTENTS OF THIS FILE
 ---------------------
